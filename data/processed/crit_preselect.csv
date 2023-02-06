@@ -1,0 +1,58 @@
+﻿Indicator Name;Interet (1-3);Commentaire
+Barro-Lee: Percentage of population age 15+ with secondary schooling. Total (Incomplete and Completed Secondary);3;Information directe
+Barro-Lee: Percentage of population age 15+ with tertiary schooling. Total (Incomplete and Completed Tertiary);3;Information directe
+Barro-Lee: Percentage of population age 15-19 with secondary schooling. Total (Incomplete and Completed Secondary);2;Un peu moins directe mais intéressante (regroupement et multiplication à faire avec la pop totale)
+Barro-Lee: Percentage of population age 15-19 with tertiary schooling. Total (Incomplete and Completed Tertiary);2;Un peu moins directe mais intéressante (regroupement et multiplication à faire avec la pop totale)
+Barro-Lee: Percentage of population age 20-24 with secondary schooling. Total (Incomplete and Completed Secondary);2;Un peu moins directe mais intéressante (regroupement et multiplication à faire avec la pop totale)
+Barro-Lee: Percentage of population age 20-24 with tertiary schooling. Total (Incomplete and Completed Tertiary);2;Un peu moins directe mais intéressante (regroupement et multiplication à faire avec la pop totale)
+Barro-Lee: Percentage of population age 25+ with tertiary schooling. Completed Tertiary;2;Un peu moins directe mais intéressante (regroupement et multiplication à faire avec la pop totale)
+Barro-Lee: Percentage of population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary);2;Un peu moins directe mais intéressante (regroupement et multiplication à faire avec la pop totale)
+Barro-Lee: Population in thousands, age 15-19, total;2;Utile pour les %
+Barro-Lee: Population in thousands, age 20-24, total;2;Utile pour les %
+DHS: Secondary completion rate;2;Intéressant
+Expenditure on secondary and post-secondary non-tertiary vocational as % of government expenditure on education (%);1;Traduit une volonté étatique sur les formations mais éloigné du sujet
+Expenditure on secondary and post-secondary non-tertiary vocational education as % of total government expenditure (%);1;Traduit une volonté étatique sur les formations mais éloigné du sujet
+GDP at market prices (constant 2005 US$);1;Utile au calcul de chiffre d'affaire potentiel
+GDP at market prices (current US$);1;Utile au calcul de chiffre d'affaire potentiel
+GDP per capita (constant 2005 US$);2;Utile au calcul de chiffre d'affaire potentiel
+GDP per capita (current US$);1;Utile au calcul de chiffre d'affaire potentiel
+GDP per capita, PPP (constant 2011 international $);2;Utile au calcul de chiffre d'affaire potentiel
+GDP per capita, PPP (current international $);1;Utile au calcul de chiffre d'affaire potentiel
+GNI (current US$);1;Utile au calcul de chiffre d'affaire potentiel
+GNI per capita, Atlas method (current US$);2;Utile au calcul de chiffre d'affaire potentiel
+GNI per capita, PPP (current international $);3;Utile au calcul de chiffre d'affaire potentiel
+GNI, PPP (current international $);1;Utile au calcul de chiffre d'affaire potentiel
+Government expenditure on secondary and post-secondary non-tertiary vocational education as % of GDP (%);1;Traduit une volonté étatique sur les formations mais éloigné du sujet
+Graduates from ISCED 5 programmes in tertiary education, both sexes (number);2;Nb de diplômés
+Graduates from ISCED 6 programmes in tertiary education, both sexes (number);2;Nb de diplômés
+Graduates from ISCED 7 programmes in tertiary education, both sexes (number);2;Nb de diplômés
+Graduates from ISCED 8 programmes in tertiary education, both sexes (number);2;Nb de diplômés
+Internet users (per 100 people);3;Nb de diplômés
+Labor force with advanced education (% of total);2;Trop de NaN
+Labor force with intermediate education (% of total);2;Trop de NaN
+Labor force, total;2;Pas mal de NaN
+Personal computers (per 100 people);2;Prérequis important
+Population growth (annual %);2;Pour la tendance du chiffre d'affaire
+Population, total;3;Pour tout calcul avec %
+Unemployment, total (% of total labor force);3;Le taux de chômage peut avoir un lien avec l'appétance pour la formation en ligne
+Wittgenstein Projection: Percentage of the population age 15+ by highest level of educational attainment. Lower Secondary. Total;2;"Au cas où cet indicateur serait plus rempli que le ""total population"""
+Wittgenstein Projection: Percentage of the population age 15+ by highest level of educational attainment. Post Secondary. Total;2;"Au cas où cet indicateur serait plus rempli que le ""total population"""
+Wittgenstein Projection: Percentage of the population age 15+ by highest level of educational attainment. Upper Secondary. Total;2;"Au cas où cet indicateur serait plus rempli que le ""total population"""
+Wittgenstein Projection: Percentage of the population age 15-19 by highest level of educational attainment. Post Secondary. Total;1;"Au cas où cet indicateur serait plus rempli que le ""total population"""
+Wittgenstein Projection: Percentage of the population age 15-19 by highest level of educational attainment. Upper Secondary. Total;1;"Au cas où cet indicateur serait plus rempli que le ""total population"""
+Wittgenstein Projection: Percentage of the population age 20-24 by highest level of educational attainment. Post Secondary. Total;1;"Au cas où cet indicateur serait plus rempli que le ""total population"""
+Wittgenstein Projection: Percentage of the population age 20-24 by highest level of educational attainment. Upper Secondary. Total;1;"Au cas où cet indicateur serait plus rempli que le ""total population"""
+Wittgenstein Projection: Percentage of the population age 25+ by highest level of educational attainment. Post Secondary. Total;1;"Au cas où cet indicateur serait plus rempli que le ""total population"""
+Wittgenstein Projection: Percentage of the population age 25+ by highest level of educational attainment. Upper Secondary. Total;1;"Au cas où cet indicateur serait plus rempli que le ""total population"""
+Wittgenstein Projection: Percentage of the total population by highest level of educational attainment. Lower Secondary. Total;3;Information directe
+Wittgenstein Projection: Percentage of the total population by highest level of educational attainment. Post Secondary. Total;3;Information directe
+Wittgenstein Projection: Percentage of the total population by highest level of educational attainment. Upper Secondary. Total;3;Information directe
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Post Secondary. Total;2;"Au cas où cet indicateur serait plus rempli que le ""total population"""
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Upper Secondary. Total;2;"Au cas où cet indicateur serait plus rempli que le ""total population"""
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Post Secondary. Total;2;"Au cas où cet indicateur serait plus rempli que le ""total population"""
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Upper Secondary. Total;2;"Au cas où cet indicateur serait plus rempli que le ""total population"""
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Post Secondary. Total;2;"Au cas où cet indicateur serait plus rempli que le ""total population"""
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Upper Secondary. Total;2;"Au cas où cet indicateur serait plus rempli que le ""total population"""
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Lower Secondary. Total;3;Information directe
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Post Secondary. Total;3;Information directe
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Upper Secondary. Total;3;Information directe
