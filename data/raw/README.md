@@ -1,4 +1,4 @@
-This directory should contains the file :
+This directory should contains the file(s) :
  ```
  - EdStatsCountry-Series.csv
  - EdStatsCountry.csv
